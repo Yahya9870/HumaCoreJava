@@ -19,6 +19,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("Hello Java");
+        System.out.println("Huma");
 
         // System is an inbuilt/predefined class of java in java.lang package.
         // out is an instance of that class.
