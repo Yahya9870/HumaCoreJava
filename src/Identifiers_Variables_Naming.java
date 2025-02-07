@@ -9,6 +9,9 @@ public class Identifiers_Variables_Naming {
 
     // int 1a;  // error
 
+
+
+
     // Rule Number 2: Case sensitive in nature. (Java is a case-sensitive language)
      // all of them are different
      int HUMA;
