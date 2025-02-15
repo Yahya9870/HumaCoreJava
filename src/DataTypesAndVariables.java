@@ -1,12 +1,20 @@
-import java.util.Scanner;
+
 
 public class DataTypesAndVariables {
     public static void main(String[] args) {
+        /** HomeWork for first class
+        // Is java a purely object-oriented language or not?
+        // Definition of JDK, JRE and JVM
 
+        // Is java platform independent? explain with reasons.
+
+        // What is a bytecode ? */
+
+        // Read that theory and try to understand it:
         //  Theory Explanation:
         //         Variable and Data Types in Java// 100 1+2+......+100
 //         There are 2 kinds of data type in Java
-//         1. Primitive (e.g. int float double etc.) 2. Non-Primitive (ArrayList, Stack etc.)
+//         1. Primitive (e.g. int float double etc.) 2. Non-Primitive (ArrayList, Stack, Queues etc.)
 //         In Primitive, we have 8 types 1. int  2. long 3. float 4. double
 //         5. boolean 6. char 7. byte and 8. short
 //         Non-Primitive we have Arrays, String, Map etc.
